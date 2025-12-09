@@ -21,4 +21,4 @@ def read_file_line_by_line(filename):
 # Main part of the program
 if __name__ == "__main__":
     # File name as given in the assignment
-    read_file_line_by_line("sample.txt")
+    read_file_line_by_line("Tutedude PY/week 1/Assignment 4/sample.txt")
